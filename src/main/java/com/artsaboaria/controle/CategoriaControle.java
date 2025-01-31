@@ -23,7 +23,6 @@ import com.artsaboaria.repositorio.CategoriaRepositorio;
 import com.artsaboaria.repositorio.EstoqueRepositorio;
 import com.artsaboaria.repositorio.ProdutoRepositorio;
 
-
 @RestController
 @RequestMapping("/categoria")
 @CrossOrigin(origins = "*")

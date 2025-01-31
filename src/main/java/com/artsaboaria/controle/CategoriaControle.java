@@ -28,7 +28,6 @@ import com.artsaboaria.repositorio.ProdutoRepositorio;
 @RequestMapping("/categoria")
 @CrossOrigin(origins = "*")
 @Controller
-
 public class CategoriaControle {
 
 	@Autowired
